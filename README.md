@@ -65,9 +65,9 @@ project report.
 
 | File | Description |
 |---|---|
-| `dataset.csv` | Dataset used for the project |
-| `analysis.ipynb` | Jupyter Notebook containing the implementation and analysis |
-| `project_report.docx` | Detailed project report |
+| `Tree_Sterility_Dataset.csv` | Dataset used for the project |
+| `Sterility_Classification_Analysis.ipynb` | Colab Notebook containing the implementation and analysis |
+| `Sterility_Classification_Report.docx` | Detailed project report |
 
 
 ## Results
